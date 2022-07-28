@@ -19,9 +19,9 @@
   ![](https://komarev.com/ghpvc/?username=jummayev&color=brightgreen)
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Zubs&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zubs&hide=css,java,html&theme=tokyonight">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Zubs">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jummayev&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jummayev&hide=laravel,php,html&theme=tokyonight">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jummayev">
 </p>
 </p>
  
