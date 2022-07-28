@@ -1,10 +1,10 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Engineer focused on Javascript (VueJS, NodeJS/Express, TypeScript)  and PHP (Laravel). </p>
+<p align='center'>I am a junior php developer (php, Laravel) </p>
 
 <p align='center'>
-<a href="https://wa.me/2347052053780?text=Hello Zubair" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/Jummayev_Nurbek" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-%2325D366.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/AwedaIdris" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
