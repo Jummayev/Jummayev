@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jummayev)
+![](https://komarev.com/ghpvc/?username=jummayev&color=brightgreen)
 <h1 align='center'>Hi there 👋🏾</h1>
 
 <p align='center'>I am a junior php developer (php, Laravel) </p>
