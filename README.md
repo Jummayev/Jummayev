@@ -16,15 +16,15 @@
   <img src="https://gpvc.arturio.dev/jummayev" />
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jummayev&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jummayev&hide=laravel,php,html,blade,&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jummayev&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jummayev">
 </p>
 </p>
  
 
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://stackoverflow.com/users/15511910/nurbek-jummayev"><img src="https://lh3.googleusercontent.com/a-/AOh14Gh1XeY0fSYYnudOhhOLsJPVmwqi_8rUqN8SYTg6=k-s256" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 
 ![game](https://user-images.githubusercontent.com/82907151/151235530-950b4ba2-0a13-4c19-833d-2f0a698fe8d3.gif)
