@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/TELEGRAM-%2325D366.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/nurbek-jummayev-58b310204/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/nurbek-jummayev-58b310204/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:jummayev279@gmail.com" target="_blank">
@@ -19,7 +19,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jummayev&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jummayev">
 </p>
-</p>
+</p> -->
  
 
 <!-- <p align='center'>
