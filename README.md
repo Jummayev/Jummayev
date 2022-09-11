@@ -3,7 +3,7 @@
 <p align='center'>I am a junior php developer (php, Laravel) </p>
 
 <p align='center'>
-  <a href="https://t.me/Jummayev_Nurbek" target="_blank">
+  <a href="https://gitlab.com/nurbek279" target="_blank">
   <img src="https://img.shields.io/badge/GITLAB-%2325D366.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>&nbsp;&nbsp;
   
