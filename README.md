@@ -3,13 +3,18 @@
 <p align='center'>I am a junior php developer (php, Laravel) </p>
 
 <p align='center'>
+  <a href="https://t.me/Jummayev_Nurbek" target="_blank">
+  <img src="https://img.shields.io/badge/GITLAB-%2325D366.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>&nbsp;&nbsp;
+  
 <a href="https://t.me/Jummayev_Nurbek" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-%2325D366.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nurbek-jummayev-58b310204/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
+  &nbsp;&nbsp;
 <a href="mailto:jummayev279@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
