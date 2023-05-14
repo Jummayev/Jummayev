@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-  <a href="https://gitlab.com/nurbek279" target="_blank">
+  <a href="https://gitlab.com/nurbek279" target="_blue">
   <img src="https://img.shields.io/badge/GITLAB-%2325D366.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>&nbsp;&nbsp;
   
