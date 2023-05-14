@@ -1,8 +1,8 @@
 <h1 align="center"> Assalomu alaykum !</h1>
 
+- 👋 Hi, My name is Nurbek Jummayev.<br> 
 <p align='center'>I am a junior php developer (php, Laravel) </p>
 
-- 👋 Hi, My name is Nurbek Jummayev.<br> 
 
 <p align='center'>
   <a href="https://gitlab.com/nurbek279" target="_blank">
